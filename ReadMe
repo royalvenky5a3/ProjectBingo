@@ -1,4 +1,2 @@
 1) Created the project with
-  --ng new projectBingo
-df
-as
+  --ng new <projectName>
